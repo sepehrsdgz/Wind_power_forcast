@@ -1,0 +1,19 @@
+name: wind_project
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - xgboost
+  - lightgbm
+  - optuna
+  - jupyter
+  - ipykernel
+  - seaborn
+  - python-docx
